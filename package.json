@@ -1,0 +1,23 @@
+{
+  "name": "web701_mern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaevRo/WEB701_Mern.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaevRo/WEB701_Mern/issues"
+  },
+  "homepage": "https://github.com/DaevRo/WEB701_Mern#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
